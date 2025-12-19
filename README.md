@@ -134,15 +134,42 @@ This ensures:
 - Confidence score visualization
 - Structured entity extraction display
 
+<p align="center">
+  <img src="assets/1.png" alt="NLU Tester – Real-time Intent & Entity Prediction" width="850"/>
+</p>
+
+*Interactive interface for testing user queries and viewing predicted intent, confidence score, and extracted entities in real time.*
+
+---
+
 ### 🔹 Model Evaluation Dashboard
 - One-click evaluation
 - Metric cards (Accuracy, Precision, Recall, F1)
 - Confusion matrix table
 
+<p align="center">
+  <img src="assets/2.png" alt="Model Evaluation Dashboard with Metrics and Confusion Matrix" width="850"/>
+</p>
+
+*Provides a complete performance evaluation of the NLU model across all intents using standard classification metrics.*
+
+---
+
 ### 🔹 Dataset Overview
 - Intent distribution chart
 - Sample dataset preview
 - Dataset summary statistics
+
+<p align="center">
+  <img src="assets/3.png" alt="Dataset Overview – Intent Distribution" width="850"/>
+</p>
+
+<p align="center">
+  <img src="assets/4.png" alt="Dataset Sample Preview and Summary Statistics" width="850"/>
+</p>
+
+*Visual exploration of dataset balance, intent distribution, sample utterances, and overall dataset statistics.*
+
 
 ---
 
